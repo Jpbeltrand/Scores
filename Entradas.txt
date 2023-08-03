@@ -1,0 +1,7 @@
+João,120
+Maria,80
+Pedro,200
+Julio,100
+Rafael,200
+Marta,80
+Jorge,200
